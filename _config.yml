@@ -1,7 +1,7 @@
 name: Bjørn Hembre
 favicon: null
-layout_spectrum: 0.3531127970200032
-typography_spectrum: 0.31966198957525194
+layout_spectrum: 0.03928
+typography_spectrum: 0.94063
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.17934313556179404
-  lightness: 0.10587943345308304
-  saturation: 0.5298961084336042
+    - '#ffffff'
+    - '#0f0f0f'
+    - '#8f8f8f'
+    - '#e9984f'
+    - '#f3d08b'
+  brandStrength: 0.6875
+  lightness: 0.375
+  saturation: 0.8125
   rhythmicContrast: 0.7454453879036009
 purpose: []
