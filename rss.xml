@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bjørn Hembre]]></title>
+        <description><![CDATA[Bjørn Hembre]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Dec 2015 02:28:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dette er en test. ]]></title>
+            <description><![CDATA[<article><h1>Dette er en test. </h1><p>We’re pretty certain this is the start of something really special, so we wanted to take a moment to personally welcome you to GitHub. We like to think of GitHub as the best way to build and ship software, and it’s great to have you on board!</p></article>]]></description>
+            <link>undefineddette-er-en-test/index.html</link>
+            <guid isPermaLink="false">29eae8b7-f76f-4cca-af79-76ab081cd69f</guid>
+            <pubDate>Mon, 07 Dec 2015 02:28:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
