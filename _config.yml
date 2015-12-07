@@ -1,0 +1,28 @@
+name: Bjørn Hembre
+favicon: null
+layout_spectrum: 0.3531127970200032
+typography_spectrum: 0.31966198957525194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17934313556179404
+  lightness: 0.10587943345308304
+  saturation: 0.5298961084336042
+  rhythmicContrast: 0.7454453879036009
+purpose: []
