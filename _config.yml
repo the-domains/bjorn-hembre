@@ -1,6 +1,6 @@
 name: Bjørn Hembre
 favicon: null
-layout_spectrum: 0.03928
+layout_spectrum: 1
 typography_spectrum: 0.94063
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#797470'
     - '#1a130d'
   brandStrength: 0.9375
-  lightness: 0.375
-  saturation: 0.8125
-  rhythmicContrast: 0.7454453879036009
+  lightness: 0.5625
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
