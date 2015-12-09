@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bjørn Hembre]]></title>
         <description><![CDATA[Bjørn Hembre]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bjorn-hembre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 02:28:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 03:27:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bjorn-hembre/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One Hundred Million Buys Much More in Berlin Than Silicon Valley]]></title>
+            <description><![CDATA[<article><h1>One Hundred Million Buys Much More in Berlin Than Silicon Valley</h1><p>For years, the venture capital industry has lavished money on Silicon Valley and Asia. Now, Europe is getting some love. Salesforce.com Inc., Microsoft Corp., Intel Corp. and Google are all scouring Western Europe for promising tech outfits -- from data-mappers and mobile payment firms to game and cloud software makers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b15a656a0624d87a4774597eb3b8b9541bd6999d.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2015-11-18/one-hundred-million-buys-much-more-in-berlin-than-silicon-valley</link>
+            <guid isPermaLink="false">eaa7317b-64a0-4e68-95dc-242e7f161343</guid>
+            <pubDate>Wed, 09 Dec 2015 03:27:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dette er en test. ]]></title>
             <description><![CDATA[<article><h1>Dette er en test. </h1><p>We’re pretty certain this is the start of something really special, so we wanted to take a moment to personally welcome you to GitHub. We like to think of GitHub as the best way to build and ship software, and it’s great to have you on board!</p></article>]]></description>
-            <link>undefineddette-er-en-test/index.html</link>
+            <link>https://thegrid.ai/bjorn-hembre/dette-er-en-test/index.html</link>
             <guid isPermaLink="false">29eae8b7-f76f-4cca-af79-76ab081cd69f</guid>
             <pubDate>Mon, 07 Dec 2015 02:28:36 GMT</pubDate>
         </item>
