@@ -1,7 +1,7 @@
 name: Bjørn Hembre
 favicon: null
-layout_spectrum: 0.96607
-typography_spectrum: 0.94063
+layout_spectrum: 0.02135
+typography_spectrum: 0.59892
 title: Brand and design consultancy
 cta:
   domain: null
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#000000'
-    - '#3f3f3f'
-    - '#bebebe'
-    - '#7f7f7f'
-  brandStrength: 0.25
-  lightness: 0.375
-  saturation: 0.875
-  rhythmicContrast: 0.5
+    - '#ff0000'
+    - '#bcbdbf'
+    - '#ff7575'
+    - '#ff9f9f'
+  brandStrength: 0.9375
+  lightness: 0.75
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
